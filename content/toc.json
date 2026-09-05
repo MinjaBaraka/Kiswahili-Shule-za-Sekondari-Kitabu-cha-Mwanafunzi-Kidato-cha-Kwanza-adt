@@ -1,0 +1,478 @@
+[
+  {
+    "section_id": "pg001_sec001",
+    "href": "index.html",
+    "title": "Kiswahili",
+    "chapter_id": "pg001_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Yaliyomo",
+    "chapter_id": "pg003_n0004",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "Orodha ya vielelezo",
+    "chapter_id": "pg005_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg006_sec001",
+    "href": "pg006_sec001.html",
+    "title": "Vifupisho",
+    "chapter_id": "pg006_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg007_sec001",
+    "href": "pg007_sec001.html",
+    "title": "Shukurani",
+    "chapter_id": "pg007_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg008_sec001",
+    "href": "pg008_sec001.html",
+    "title": "Dibaji",
+    "chapter_id": "pg008_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Sura ya Kwanza",
+    "chapter_id": "pg009_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg010_n0026",
+    "level": 3
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg011_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg012_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Matumizi ya lugha ya Kiswahili kama kielelezo cha utamaduni wa Mtanzania",
+    "chapter_id": "pg013_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg014_sec001",
+    "href": "pg014_sec001.html",
+    "title": "Mjukuu wa 1:",
+    "chapter_id": "pg014_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg017_sec001",
+    "href": "pg017_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg017_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg020_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Oanisha dhana zilizopo katika Orodha A na maelezo yaliyopo katika Orodha B kwa kuchagua herufi ya jibu sahihi.",
+    "chapter_id": "pg021_n0015",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Sura ya Pili",
+    "chapter_id": "pg022_n0005",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec001",
+    "href": "pg025_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg025_n0010",
+    "level": 3
+  },
+  {
+    "section_id": "pg026_sec001",
+    "href": "pg026_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg026_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg027_sec001",
+    "href": "pg027_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg027_n0039",
+    "level": 3
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg028_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Kusimulia habari kwa kuzingatia mkazo",
+    "chapter_id": "pg030_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg031_sec001",
+    "href": "pg031_sec001.html",
+    "title": "Shughuli ya",
+    "chapter_id": "pg031_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg033_sec001",
+    "href": "pg033_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg033_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Zoezi la 2.2",
+    "chapter_id": "pg034_n0017",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Shughuli ya 2.5",
+    "chapter_id": "pg035_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Kielezi:",
+    "chapter_id": "pg036_n0011",
+    "level": 3
+  },
+  {
+    "section_id": "pg037_sec001",
+    "href": "pg037_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg037_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Zoezi la 2.3",
+    "chapter_id": "pg038_n0032",
+    "level": 3
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Shughuli ya 2.6",
+    "chapter_id": "pg039_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg040_n0020",
+    "level": 3
+  },
+  {
+    "section_id": "pg041_sec001",
+    "href": "pg041_sec001.html",
+    "title": "Shughuli ya",
+    "chapter_id": "pg041_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Zoezi la marudio la 2",
+    "chapter_id": "pg042_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Sura ya",
+    "chapter_id": "pg044_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg045_sec001",
+    "href": "pg045_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg045_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec001",
+    "href": "pg047_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg047_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec001",
+    "href": "pg049_sec001.html",
+    "title": "Kielelezo Na. 3. 3: Sehemu ya mwisho wa kamusi",
+    "chapter_id": "pg049_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg050_sec001",
+    "href": "pg050_sec001.html",
+    "title": "Shughuli ya 3.3",
+    "chapter_id": "pg050_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg051_sec001",
+    "href": "pg051_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg051_n0034",
+    "level": 3
+  },
+  {
+    "section_id": "pg052_sec001",
+    "href": "pg052_sec001.html",
+    "title": "Zoezi la 3.1",
+    "chapter_id": "pg052_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg053_sec001",
+    "href": "pg053_sec001.html",
+    "title": "Zoezi la marudio la 3",
+    "chapter_id": "pg053_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Sura ya",
+    "chapter_id": "pg054_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg055_n0052",
+    "level": 2
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Shughuli ya",
+    "chapter_id": "pg056_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg057_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec001",
+    "href": "pg058_sec001.html",
+    "title": "Zoezi la 4.1",
+    "chapter_id": "pg058_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg059_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg060_n0033",
+    "level": 3
+  },
+  {
+    "section_id": "pg061_sec001",
+    "href": "pg061_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg061_n0005",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Sura ya Tano",
+    "chapter_id": "pg063_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg065_n0026",
+    "level": 2
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Zoezi la 5.1",
+    "chapter_id": "pg066_n0015",
+    "level": 3
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg067_n0016",
+    "level": 2
+  },
+  {
+    "section_id": "pg068_sec001",
+    "href": "pg068_sec001.html",
+    "title": "Athari za alama za uandishi na kiimbo katika usomaji",
+    "chapter_id": "pg068_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Kuandika hoja kuu kutoka katika matini fupi changamani",
+    "chapter_id": "pg069_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Zingatia",
+    "chapter_id": "pg070_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg071_sec001",
+    "href": "pg071_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg071_n0022",
+    "level": 2
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Sura ya Sita",
+    "chapter_id": "pg074_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg076_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg077_sec001",
+    "href": "pg077_sec001.html",
+    "title": "1 (a) Mazungumzo ya shuleni",
+    "chapter_id": "pg077_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg078_sec001",
+    "href": "pg078_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg078_n0050",
+    "level": 3
+  },
+  {
+    "section_id": "pg079_sec001",
+    "href": "pg079_sec001.html",
+    "title": "Shughuli ya 6.2",
+    "chapter_id": "pg079_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg081_sec001",
+    "href": "pg081_sec001.html",
+    "title": "Sura ya Saba",
+    "chapter_id": "pg081_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Maswali",
+    "chapter_id": "pg082_n0011",
+    "level": 2
+  },
+  {
+    "section_id": "pg083_sec001",
+    "href": "pg083_sec001.html",
+    "title": "Shughuli ya 7.1",
+    "chapter_id": "pg083_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg084_sec001",
+    "href": "pg084_sec001.html",
+    "title": "Zoezi la 7.2",
+    "chapter_id": "pg084_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg085_sec001",
+    "href": "pg085_sec001.html",
+    "title": "Zoezi la marudio la 7",
+    "chapter_id": "pg085_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg086_sec001",
+    "href": "pg086_sec001.html",
+    "title": "Faharasa",
+    "chapter_id": "pg086_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg088_sec001",
+    "href": "pg088_sec001.html",
+    "title": "Bibliografia",
+    "chapter_id": "pg088_n0003",
+    "level": 1
+  }
+]

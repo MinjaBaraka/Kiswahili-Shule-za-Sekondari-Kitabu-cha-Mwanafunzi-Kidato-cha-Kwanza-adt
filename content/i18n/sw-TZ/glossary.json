@@ -1,0 +1,2052 @@
+{
+  "adalala": {
+    "word": "adalala",
+    "definition": "gari la abiria linalotoa huduma ya usafiri wa mara kwa mara mijini au kati ya maeneo.",
+    "variations": [
+      "daladala",
+      "madaladala"
+    ],
+    "emoji": "🚌",
+    "id": "gl001"
+  },
+  "ajira": {
+    "word": "ajira",
+    "definition": "kazi ya kumpatia mtu kipato, iwe ya kuajiriwa au kujiajiri.",
+    "variations": [
+      "ajira"
+    ],
+    "emoji": "💼💰",
+    "id": "gl002"
+  },
+  "alama ya mshangao": {
+    "word": "alama ya mshangao",
+    "definition": "alama inayoonesha hisia kali kama mshangao au furaha.",
+    "variations": [
+      "mshangao (!)",
+      "alama ya mshangao (!)"
+    ],
+    "emoji": "❗😮",
+    "id": "gl003"
+  },
+  "alama za uandishi": {
+    "word": "alama za uandishi",
+    "definition": "alama zinazotumika katika maandishi ili kusaidia maana ieleweke.",
+    "variations": [
+      "alama ya kuuliza",
+      "nukta",
+      "mkato",
+      "alama za maandishi"
+    ],
+    "emoji": "❓✍️📄",
+    "id": "gl004"
+  },
+  "alfabeti": {
+    "word": "alfabeti",
+    "definition": "mpangilio wa herufi kutoka A hadi Z.",
+    "variations": [
+      "alfabeti"
+    ],
+    "emoji": "🔤📚",
+    "id": "gl005"
+  },
+  "amali": {
+    "word": "amali",
+    "definition": "mambo mazuri ya jadi na vitendo vya thamani vinavyorithishwa katika jamii.",
+    "variations": [
+      "amali",
+      "amali za jamii"
+    ],
+    "emoji": "🏺👪",
+    "id": "gl006"
+  },
+  "amani": {
+    "word": "amani",
+    "definition": "Hali ya utulivu bila vurugu, ugomvi au vita.",
+    "variations": [
+      "amani"
+    ],
+    "emoji": "🕊️🤍",
+    "id": "gl007"
+  },
+  "anwani": {
+    "word": "anwani",
+    "definition": "maelezo ya mahali au mtu yanayotumika kumtambua au kumfikishia barua.",
+    "variations": [
+      "anwani ya mwandishi",
+      "anwani za barua"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl008"
+  },
+  "aya": {
+    "word": "aya",
+    "definition": "kundi la sentensi zinazozungumzia wazo moja kuu.",
+    "variations": [
+      "aya",
+      "aya za habari"
+    ],
+    "emoji": "📄📝",
+    "id": "gl009"
+  },
+  "bakteria": {
+    "word": "bakteria",
+    "definition": "viumbe vidogo sana vinavyoweza kusababisha magonjwa baadhi ya wakati",
+    "variations": [
+      "bakteria"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl010"
+  },
+  "barakoa": {
+    "word": "barakoa",
+    "definition": "kifuniko cha pua na mdomo kinachovaliwa kujikinga na maambukizi au vumbi",
+    "variations": [
+      "barakoa",
+      "barakoa za uso"
+    ],
+    "emoji": "😷🛡️",
+    "id": "gl011"
+  },
+  "barua": {
+    "word": "barua",
+    "definition": "ujumbe unaoandikwa na kutumwa kwa mtu mwingine.",
+    "variations": [
+      "barua ya kirafiki",
+      "barua rasmi",
+      "barua za kirafiki"
+    ],
+    "emoji": "✉️📬",
+    "id": "gl012"
+  },
+  "bidii": {
+    "word": "bidii",
+    "definition": "juhudi kubwa katika kufanya kazi au kusoma.",
+    "variations": [
+      "bidii"
+    ],
+    "emoji": "💪📘",
+    "id": "gl013"
+  },
+  "chujio": {
+    "word": "chujio",
+    "definition": "kitu kinachotumika kuchuja na kutenganisha vitu visivyohitajika",
+    "variations": [
+      "chujio",
+      "vichujio"
+    ],
+    "emoji": "🫗🔍",
+    "id": "gl014"
+  },
+  "dalali": {
+    "word": "dalali",
+    "definition": "mtu anayesaidia kuuza au kununua kitu kwa niaba ya wengine",
+    "variations": [
+      "dalali",
+      "madalali"
+    ],
+    "emoji": "💼🤝",
+    "id": "gl015"
+  },
+  "dalili": {
+    "word": "dalili",
+    "definition": "ishara au viashiria vinavyoonyesha kuwa kuna ugonjwa au hali fulani",
+    "variations": [
+      "dalili"
+    ],
+    "emoji": "⚠️🌡️",
+    "id": "gl016"
+  },
+  "dayolojia": {
+    "word": "dayolojia",
+    "definition": "mazungumzo yaliyoandikwa kati ya watu wawili au zaidi",
+    "variations": [
+      "dayolojia"
+    ],
+    "emoji": "💬👥",
+    "id": "gl017"
+  },
+  "desturi": {
+    "word": "desturi",
+    "definition": "Tabia au kawaida inayofuatwa na jamii kwa muda mrefu.",
+    "variations": [
+      "desturi",
+      "mila na desturi"
+    ],
+    "emoji": "📚🏺",
+    "id": "gl018"
+  },
+  "dhana": {
+    "word": "dhana",
+    "definition": "Wazo, maana au fikra kuhusu jambo fulani.",
+    "variations": [
+      "dhana"
+    ],
+    "emoji": "💭🧠",
+    "id": "gl019"
+  },
+  "dhima": {
+    "word": "dhima",
+    "definition": "kazi au jukumu la neno katika sentensi au tungo.",
+    "variations": [
+      "dhima",
+      "dhima ya kisarufi"
+    ],
+    "emoji": "🎯📚",
+    "id": "gl020"
+  },
+  "dibaji": {
+    "word": "dibaji",
+    "definition": "Maelezo ya mwanzo wa kitabu yanayoeleza kusudi na yaliyomo ndani yake.",
+    "variations": [
+      "dibaji"
+    ],
+    "emoji": "📘ℹ️",
+    "id": "gl021"
+  },
+  "eksirei": {
+    "word": "eksirei",
+    "definition": "picha ya ndani ya mwili inayopigwa kwa mashine maalumu ili kuona tatizo la kiafya",
+    "variations": [
+      "eksirei"
+    ],
+    "emoji": "🩻🏥",
+    "id": "gl022"
+  },
+  "faharasa": {
+    "word": "faharasa",
+    "definition": "Orodha ya maneno muhimu pamoja na maana zake.",
+    "variations": [
+      "faharasa"
+    ],
+    "emoji": "📚🔤",
+    "id": "gl023"
+  },
+  "fahari": {
+    "word": "fahari",
+    "definition": "hali ya kujiona au kufanya kitu kwa uzuri, hadhi, au kujivunia",
+    "variations": [
+      "fahari"
+    ],
+    "emoji": "✨👑",
+    "id": "gl024"
+  },
+  "fasaha": {
+    "word": "fasaha",
+    "definition": "hali ya kusema au kuandika lugha kwa usahihi na kwa ueleweka mzuri.",
+    "variations": [
+      "fasaha",
+      "kifasaha",
+      "ufasaha"
+    ],
+    "emoji": "📚✨",
+    "id": "gl025"
+  },
+  "fasihi": {
+    "word": "fasihi",
+    "definition": "Kazi za kisanaa za lugha kama hadithi, mashairi na tamthilia.",
+    "variations": [
+      "fasihi",
+      "kifasihi"
+    ],
+    "emoji": "📚🎭",
+    "id": "gl026"
+  },
+  "fursa": {
+    "word": "fursa",
+    "definition": "nafasi nzuri inayoweza kukuletea faida au mafanikio.",
+    "variations": [
+      "fursa",
+      "fursa mbalimbali"
+    ],
+    "emoji": "🌟🚪",
+    "id": "gl027"
+  },
+  "hadhari": {
+    "word": "hadhari",
+    "definition": "tahadhari au uangalifu wa kuzuia hatari isitokee",
+    "variations": [
+      "hadhari"
+    ],
+    "emoji": "⚠️👀",
+    "id": "gl028"
+  },
+  "hadhi": {
+    "word": "hadhi",
+    "definition": "Kiwango cha heshima, nafasi au umuhimu wa kitu au mtu.",
+    "variations": [
+      "hadhi"
+    ],
+    "emoji": "⭐🏅",
+    "id": "gl029"
+  },
+  "hadhira": {
+    "word": "hadhira",
+    "definition": "watu wanaolengwa kusoma, kusikia au kupokea ujumbe.",
+    "variations": [
+      "wasomaji",
+      "wasikilizaji",
+      "hadhira inayohusika"
+    ],
+    "emoji": "👂👥",
+    "id": "gl030"
+  },
+  "hariri": {
+    "word": "hariri",
+    "definition": "kitambaa laini sana na cha thamani kinachotengenezwa kwa uangalifu mkubwa",
+    "variations": [
+      "hariri"
+    ],
+    "emoji": "🧵👗",
+    "id": "gl031"
+  },
+  "hila": {
+    "word": "hila",
+    "definition": "njia ya ujanja inayotumiwa kumshawishi au kumdanganya mtu ili kufikia lengo fulani",
+    "variations": [
+      "hila",
+      "mahila"
+    ],
+    "emoji": "🧠🪤",
+    "id": "gl032"
+  },
+  "hoja": {
+    "word": "hoja",
+    "definition": "wazo au sababu inayotolewa ili kutetea au kueleza jambo.",
+    "variations": [
+      "hoja",
+      "hoja mbalimbali"
+    ],
+    "emoji": "📌🗯️",
+    "id": "gl033"
+  },
+  "hotuba": {
+    "word": "hotuba",
+    "definition": "maelezo yanayotolewa mbele ya watu kwa mpangilio maalumu.",
+    "variations": [
+      "hotuba ya hadhara",
+      "hotuba mbalimbali"
+    ],
+    "emoji": "🎤🗣️",
+    "id": "gl034"
+  },
+  "igizodhima": {
+    "word": "igizodhima",
+    "definition": "tamthilia au mchezo mfupi unaoigizwa ili kuonyesha ujumbe fulani",
+    "variations": [
+      "igizodhima",
+      "igizodhima la malumbano"
+    ],
+    "emoji": "🎭📢",
+    "id": "gl035"
+  },
+  "jamii": {
+    "word": "jamii",
+    "definition": "Kundi la watu wanaoishi pamoja au wanaohusiana katika eneo au utamaduni mmoja.",
+    "variations": [
+      "jamii",
+      "kijamii",
+      "wanajamii"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl036"
+  },
+  "kabila": {
+    "word": "kabila",
+    "definition": "kundi la watu lenye asili, mila au lugha inayofanana.",
+    "variations": [
+      "kabila",
+      "makabila"
+    ],
+    "emoji": "👥🏞️",
+    "id": "gl037"
+  },
+  "kamusi": {
+    "word": "kamusi",
+    "definition": "kitabu cha maneno na maana zake kilichopangwa kwa alfabeti.",
+    "variations": [
+      "kamusi",
+      "kamusi za"
+    ],
+    "emoji": "📖🔤",
+    "id": "gl038"
+  },
+  "kasi stahiki": {
+    "word": "kasi stahiki",
+    "definition": "mwendo unaofaa wa kusoma ili ujumbe ueleweke vizuri.",
+    "variations": [
+      "kasi stahiki"
+    ],
+    "emoji": "⏱️📖",
+    "id": "gl039"
+  },
+  "kasumba": {
+    "word": "kasumba",
+    "definition": "imani au tabia iliyojengeka vibaya na ni vigumu kuiacha",
+    "variations": [
+      "kasumba"
+    ],
+    "emoji": "🧠⛓️",
+    "id": "gl040"
+  },
+  "kategoria": {
+    "word": "kategoria",
+    "definition": "aina au kundi ambalo kitu huwekwa.",
+    "variations": [
+      "kategoria",
+      "kategoria/aina"
+    ],
+    "emoji": "🗂️📌",
+    "id": "gl041"
+  },
+  "kidahizo": {
+    "word": "kidahizo",
+    "definition": "neno kuu linaloorodheshwa kwenye kamusi na kufafanuliwa.",
+    "variations": [
+      "kidahizo",
+      "vidahizo"
+    ],
+    "emoji": "📖🏷️",
+    "id": "gl042"
+  },
+  "kidani": {
+    "word": "kidani",
+    "definition": "pambo linalovaliwa shingoni",
+    "variations": [
+      "kidani",
+      "vidani"
+    ],
+    "emoji": "📿✨",
+    "id": "gl043"
+  },
+  "kielezi": {
+    "word": "kielezi",
+    "definition": "neno linalotoa taarifa zaidi kuhusu tendo, sifa, wakati, mahali au namna.",
+    "variations": [
+      "vielezi",
+      "kielezi cha mahali",
+      "kielezi cha wakati",
+      "kielezi cha namna",
+      "kielezi cha idadi"
+    ],
+    "emoji": "📍⏰➕",
+    "id": "gl044"
+  },
+  "kificho": {
+    "word": "kificho",
+    "definition": "Njia ya kusema au kuonyesha jambo bila kulitaja moja kwa moja.",
+    "variations": [
+      "kificho",
+      "kwa kificho"
+    ],
+    "emoji": "🫥🤐",
+    "id": "gl045"
+  },
+  "kifua kikuu": {
+    "word": "kifua kikuu",
+    "definition": "ugonjwa unaoathiri zaidi mapafu na unaweza kuambukiza kupitia hewa",
+    "variations": [
+      "kifua kikuu"
+    ],
+    "emoji": "🫁😷",
+    "id": "gl046"
+  },
+  "kihisishi": {
+    "word": "kihisishi",
+    "definition": "neno linaloonyesha hisia au mshangao wa msemaji.",
+    "variations": [
+      "vihisishi"
+    ],
+    "emoji": "😮😀",
+    "id": "gl047"
+  },
+  "kihusishi": {
+    "word": "kihusishi",
+    "definition": "neno linaloleta uhusiano kati ya maneno katika tungo.",
+    "variations": [
+      "vihusishi"
+    ],
+    "emoji": "🤝📎",
+    "id": "gl048"
+  },
+  "kiimbo": {
+    "word": "kiimbo",
+    "definition": "namna sauti inavyopanda au kushuka wakati wa kuzungumza.",
+    "variations": [
+      "kiimbo",
+      "viimbo"
+    ],
+    "emoji": "🎵🗣️",
+    "id": "gl049"
+  },
+  "kijamii": {
+    "word": "kijamii",
+    "definition": "Kuhusu maisha na mahusiano ya watu katika jamii.",
+    "variations": [
+      "jamii",
+      "kijamii"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl050"
+  },
+  "kikao": {
+    "word": "kikao",
+    "definition": "mkusanyiko wa watu kwa ajili ya kujadili jambo.",
+    "variations": [
+      "vikao",
+      "kikao cha shule"
+    ],
+    "emoji": "🪑👥",
+    "id": "gl051"
+  },
+  "kimataifa": {
+    "word": "kimataifa",
+    "definition": "Kwa kiwango kinachohusisha nchi nyingi duniani.",
+    "variations": [
+      "kimataifa",
+      "ataifa"
+    ],
+    "emoji": "🌐🤝",
+    "id": "gl052"
+  },
+  "kimatamshi": {
+    "word": "kimatamshi",
+    "definition": "kinachohusu namna neno linavyotamkwa.",
+    "variations": [
+      "kimatamshi",
+      "matamshi"
+    ],
+    "emoji": "👄🔊",
+    "id": "gl053"
+  },
+  "kipato": {
+    "word": "kipato",
+    "definition": "pesa au faida anayopata mtu kutokana na kazi au biashara.",
+    "variations": [
+      "kipato",
+      "vipato"
+    ],
+    "emoji": "💵📈",
+    "id": "gl054"
+  },
+  "kipaumbele": {
+    "word": "kipaumbele",
+    "definition": "jambo linalopewa nafasi ya kwanza kwa umuhimu",
+    "variations": [
+      "kipaumbele",
+      "vipaumbele"
+    ],
+    "emoji": "🥇✅",
+    "id": "gl055"
+  },
+  "kipindupindu": {
+    "word": "kipindupindu",
+    "definition": "ugonjwa wa kuambukiza unaosababisha kuharisha na kutapika sana.",
+    "variations": [
+      "kipindupindu"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl056"
+  },
+  "kisawe": {
+    "word": "kisawe",
+    "definition": "neno lenye maana inayofanana na ya neno lingine.",
+    "variations": [
+      "kisawe",
+      "visawe"
+    ],
+    "emoji": "🔁📚",
+    "id": "gl057"
+  },
+  "kitenzi": {
+    "word": "kitenzi",
+    "definition": "neno linaloonyesha tendo, hali au tukio.",
+    "variations": [
+      "vitenzi",
+      "kitenzi kikuu",
+      "kitenzi kisaidizi",
+      "kitenzi kishirikishi"
+    ],
+    "emoji": "🏃⚙️",
+    "id": "gl058"
+  },
+  "kitomeo": {
+    "word": "kitomeo",
+    "definition": "kidahizo pamoja na maelezo yake katika kamusi.",
+    "variations": [
+      "kitomeo",
+      "vitomeo"
+    ],
+    "emoji": "📘📝",
+    "id": "gl059"
+  },
+  "kiuchumi": {
+    "word": "kiuchumi",
+    "definition": "Kuhusu fedha, biashara au uzalishaji wa mali.",
+    "variations": [
+      "uchumi",
+      "kiuchumi"
+    ],
+    "emoji": "💰📊",
+    "id": "gl060"
+  },
+  "kiunganishi": {
+    "word": "kiunganishi",
+    "definition": "neno linalounganisha maneno, vifungu au sentensi.",
+    "variations": [
+      "viunganishi"
+    ],
+    "emoji": "🔗🧩",
+    "id": "gl061"
+  },
+  "kivumishi": {
+    "word": "kivumishi",
+    "definition": "neno linaloeleza au kusifia nomino au kiwakilishi.",
+    "variations": [
+      "vivumishi",
+      "kivumishi cha sifa",
+      "kivumishi cha idadi",
+      "kivumishi kiulizi",
+      "kivumishi kioneshi",
+      "kivumishi kimilikishi"
+    ],
+    "emoji": "✨🏷️",
+    "id": "gl062"
+  },
+  "kiwakilishi": {
+    "word": "kiwakilishi",
+    "definition": "neno linalotumika badala ya nomino katika sentensi.",
+    "variations": [
+      "viwakilishi",
+      "kiwakilishi cha nafsi",
+      "kiwakilishi cha idadi",
+      "kiwakilishi kiulizi",
+      "kiwakilishi kimilikishi",
+      "kiwakilishi kioneshi",
+      "kiwakilishi cha sifa"
+    ],
+    "emoji": "🔁👥",
+    "id": "gl063"
+  },
+  "kizazi": {
+    "word": "kizazi",
+    "definition": "Kundi la watu waliozaliwa katika kipindi kinachofanana au waliofuatana kwa umri.",
+    "variations": [
+      "kizazi",
+      "vizazi"
+    ],
+    "emoji": "👶👵",
+    "id": "gl064"
+  },
+  "kongamano": {
+    "word": "kongamano",
+    "definition": "Mkutano wa watu wengi kwa ajili ya kujadili au kujifunza jambo fulani.",
+    "variations": [
+      "kongamano",
+      "makongamano"
+    ],
+    "emoji": "🏛️🧑‍🏫",
+    "id": "gl065"
+  },
+  "kujiajiri": {
+    "word": "kujiajiri",
+    "definition": "kujipatia kazi au biashara yako mwenyewe badala ya kuajiriwa na mwingine.",
+    "variations": [
+      "kujiajiri",
+      "amejiajiri"
+    ],
+    "emoji": "🛠️🏪",
+    "id": "gl066"
+  },
+  "kumbukumbu": {
+    "word": "kumbukumbu",
+    "definition": "maandishi yanayohifadhi mambo muhimu yaliyosemwa au yaliyotokea.",
+    "variations": [
+      "kumbukumbu za kikao",
+      "kumbukumbu za mkutano"
+    ],
+    "emoji": "📒📝",
+    "id": "gl067"
+  },
+  "kutafakari": {
+    "word": "kutafakari",
+    "definition": "kufikiria jambo kwa makini ili kulielewa vizuri.",
+    "variations": [
+      "kutafakari",
+      "tafakari"
+    ],
+    "emoji": "🤔🧠",
+    "id": "gl068"
+  },
+  "kuwasiliana": {
+    "word": "kuwasiliana",
+    "definition": "kubadilishana taarifa, habari au mawazo kati ya watu.",
+    "variations": [
+      "wasiliana",
+      "kuwasilisha",
+      "mawasiliano"
+    ],
+    "emoji": "💬📝",
+    "id": "gl069"
+  },
+  "lafudhi": {
+    "word": "lafudhi",
+    "definition": "namna ya kusema maneno inayoweza kuonesha eneo au jamii anayotoka mtu.",
+    "variations": [
+      "lafudhi",
+      "lafudhi sahihi",
+      "lafudhi tofauti"
+    ],
+    "emoji": "🗣️📍",
+    "id": "gl070"
+  },
+  "lugha": {
+    "word": "lugha",
+    "definition": "Mfumo wa sauti, maneno na sentensi unaotumiwa na watu kuwasiliana na kuelewana.",
+    "variations": [
+      "lugha",
+      "kilugha"
+    ],
+    "emoji": "🗣️💬",
+    "id": "gl071"
+  },
+  "maabara": {
+    "word": "maabara",
+    "definition": "chumba au sehemu maalumu ambako vipimo au uchunguzi wa kisayansi hufanyika",
+    "variations": [
+      "maabara"
+    ],
+    "emoji": "🧪🔬",
+    "id": "gl072"
+  },
+  "maadili": {
+    "word": "maadili",
+    "definition": "Kanuni au tabia nzuri zinazomwongoza mtu kuishi vizuri katika jamii.",
+    "variations": [
+      "maadili",
+      "adili"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl073"
+  },
+  "maana": {
+    "word": "maana",
+    "definition": "Ujumbe au wazo linalopatikana katika neno, sentensi au jambo.",
+    "variations": [
+      "maana",
+      "maanani"
+    ],
+    "emoji": "💡📖",
+    "id": "gl074"
+  },
+  "maandishi": {
+    "word": "maandishi",
+    "definition": "maneno yanayoandikwa ili kutoa ujumbe au taarifa.",
+    "variations": [
+      "uandishi",
+      "andiko",
+      "kuandika"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl075"
+  },
+  "maarifa": {
+    "word": "maarifa",
+    "definition": "Ujuzi au mambo ambayo mtu amejifunza na kuyajua.",
+    "variations": [
+      "maarifa"
+    ],
+    "emoji": "🧠📚",
+    "id": "gl076"
+  },
+  "mabano": {
+    "word": "mabano",
+    "definition": "alama zinazoweka maelezo ya ziada pembeni ya sentensi.",
+    "variations": [
+      "mabano (( ))",
+      "bano"
+    ],
+    "emoji": "()📎",
+    "id": "gl077"
+  },
+  "mada": {
+    "word": "mada",
+    "definition": "jambo kuu linalozungumziwa au kuandikwa.",
+    "variations": [
+      "mada",
+      "mada maalumu"
+    ],
+    "emoji": "📝",
+    "id": "gl078"
+  },
+  "maendeleo": {
+    "word": "maendeleo",
+    "definition": "Hatua ya kusonga mbele au kuboreka katika maisha, uchumi au jamii.",
+    "variations": [
+      "maendeleo",
+      "kuendelea"
+    ],
+    "emoji": "📈🌟",
+    "id": "gl079"
+  },
+  "mafanikio": {
+    "word": "mafanikio",
+    "definition": "matokeo mazuri yanayopatikana baada ya juhudi.",
+    "variations": [
+      "mafanikio"
+    ],
+    "emoji": "🏆🌟",
+    "id": "gl080"
+  },
+  "mafugo": {
+    "word": "mafugo",
+    "definition": "wanyama wanaofugwa kama ng’ombe, mbuzi, au kondoo",
+    "variations": [
+      "mifugo",
+      "fugo"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl081"
+  },
+  "mafuriko": {
+    "word": "mafuriko",
+    "definition": "hali ya maji mengi kujaa na kufunika maeneo ya nchi",
+    "variations": [
+      "mafuriko"
+    ],
+    "emoji": "🌧️🌊",
+    "id": "gl082"
+  },
+  "mahojiano": {
+    "word": "mahojiano",
+    "definition": "Mazungumzo ya kuuliza na kujibu maswali ili kupata taarifa.",
+    "variations": [
+      "mahojiano",
+      "hojaji"
+    ],
+    "emoji": "🎙️❓",
+    "id": "gl083"
+  },
+  "majadiliano": {
+    "word": "majadiliano",
+    "definition": "mazungumzo ya watu wawili au zaidi kuhusu jambo fulani ili kubadilishana mawazo au hoja.",
+    "variations": [
+      "jadiliano",
+      "majadiliano"
+    ],
+    "emoji": "🗣️👥",
+    "id": "gl084"
+  },
+  "majeruhi": {
+    "word": "majeruhi",
+    "definition": "watu walioumia katika ajali, vita au tukio baya.",
+    "variations": [
+      "jeruhi",
+      "majeruhi"
+    ],
+    "emoji": "🤕🚑",
+    "id": "gl085"
+  },
+  "makabila": {
+    "word": "makabila",
+    "definition": "Makundi ya watu wenye asili, mila au lugha zinazofanana.",
+    "variations": [
+      "kabila",
+      "makabila"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl086"
+  },
+  "makala": {
+    "word": "makala",
+    "definition": "andishi linalozungumzia jambo fulani kwa maelezo.",
+    "variations": [
+      "makala",
+      "makala mbalimbali"
+    ],
+    "emoji": "📰",
+    "id": "gl087"
+  },
+  "makohozi": {
+    "word": "makohozi",
+    "definition": "ute unaotoka kooni au kifuani wakati wa kukohoa",
+    "variations": [
+      "khozi",
+      "makohozi"
+    ],
+    "emoji": "🤧🫁",
+    "id": "gl088"
+  },
+  "maoni": {
+    "word": "maoni",
+    "definition": "mawazo au mtazamo wa mtu kuhusu jambo fulani.",
+    "variations": [
+      "maoni",
+      "oni"
+    ],
+    "emoji": "💭",
+    "id": "gl089"
+  },
+  "maporomoko": {
+    "word": "maporomoko",
+    "definition": "kushuka kwa kasi kwa vitu kama maji, mawe, au udongo kutoka juu kwenda chini",
+    "variations": [
+      "maporomoko"
+    ],
+    "emoji": "🌊🪨",
+    "id": "gl090"
+  },
+  "masimulizi": {
+    "word": "masimulizi",
+    "definition": "Hadithi au maelezo ya matukio yanayosimuliwa kwa mdomo au kwa maandishi.",
+    "variations": [
+      "masimulizi",
+      "simulizi"
+    ],
+    "emoji": "📖🗨️",
+    "id": "gl091"
+  },
+  "matamshi": {
+    "word": "matamshi",
+    "definition": "jinsi maneno ya lugha yanavyotamkwa.",
+    "variations": [
+      "matamshi",
+      "matamshi sahihi"
+    ],
+    "emoji": "👄🔊",
+    "id": "gl092"
+  },
+  "matibabu": {
+    "word": "matibabu",
+    "definition": "huduma au dawa zinazotolewa ili kumponya mgonjwa",
+    "variations": [
+      "matibabu"
+    ],
+    "emoji": "💊🏥",
+    "id": "gl093"
+  },
+  "matini": {
+    "word": "matini",
+    "definition": "andiko linalozungumzia jambo fulani.",
+    "variations": [
+      "matini mbalimbali",
+      "andiko"
+    ],
+    "emoji": "📘📝",
+    "id": "gl094"
+  },
+  "maudhui": {
+    "word": "maudhui",
+    "definition": "ujumbe mkuu au mambo yanayozungumzwa katika maandishi.",
+    "variations": [
+      "dhana kuu",
+      "yaliyomo"
+    ],
+    "emoji": "📚💬",
+    "id": "gl095"
+  },
+  "mawasiliano": {
+    "word": "mawasiliano",
+    "definition": "upashanaji wa habari au taarifa kati ya watu kwa maneno, maandishi au ishara.",
+    "variations": [
+      "mawasiliano"
+    ],
+    "emoji": "📢💬",
+    "id": "gl096"
+  },
+  "mawazo": {
+    "word": "mawazo",
+    "definition": "fikra au jambo analolifikiria mtu akilini.",
+    "variations": [
+      "wazo",
+      "fikra"
+    ],
+    "emoji": "💭🧠",
+    "id": "gl097"
+  },
+  "mawimbisauti": {
+    "word": "mawimbisauti",
+    "definition": "mabadiliko ya sauti yanayotokea wakati wa kuzungumza.",
+    "variations": [
+      "mawimbisauti"
+    ],
+    "emoji": "🎶🔊",
+    "id": "gl098"
+  },
+  "mazingira": {
+    "word": "mazingira",
+    "definition": "hali au vitu vinavyomzunguka mtu au kitu mahali fulani.",
+    "variations": [
+      "mazingira"
+    ],
+    "emoji": "🌍🏘️",
+    "id": "gl099"
+  },
+  "mazungumzo": {
+    "word": "mazungumzo",
+    "definition": "kubadilishana mawazo au taarifa kwa kuzungumza",
+    "variations": [
+      "mazungumzo"
+    ],
+    "emoji": "🗣️💬",
+    "id": "gl100"
+  },
+  "mdahalo": {
+    "word": "mdahalo",
+    "definition": "majadiliano ya hoja kati ya pande mbili au zaidi kuhusu mada fulani",
+    "variations": [
+      "mdahalo",
+      "midahalo"
+    ],
+    "emoji": "🎤⚖️",
+    "id": "gl101"
+  },
+  "methali": {
+    "word": "methali",
+    "definition": "maneno ya hekima yanayotumiwa kufundisha au kueleza jambo kwa ufupi",
+    "variations": [
+      "methali",
+      "methali za"
+    ],
+    "emoji": "💬🌿",
+    "id": "gl102"
+  },
+  "mgogoro": {
+    "word": "mgogoro",
+    "definition": "hali ya kutokuelewana au kuwa na matatizo kati ya watu au pande mbili",
+    "variations": [
+      "mgogoro",
+      "migogoro"
+    ],
+    "emoji": "⚠️🗣️",
+    "id": "gl103"
+  },
+  "miiko": {
+    "word": "miiko",
+    "definition": "Mambo au maneno ambayo jamii hairuhusu yafanywe au yasemwe ovyo.",
+    "variations": [
+      "mwiko",
+      "miiko"
+    ],
+    "emoji": "🚫🤫",
+    "id": "gl104"
+  },
+  "miktadha": {
+    "word": "miktadha",
+    "definition": "Hali, mazingira au sehemu ambamo jambo au mazungumzo hufanyika.",
+    "variations": [
+      "muktadha",
+      "miktadha"
+    ],
+    "emoji": "🌐📍",
+    "id": "gl105"
+  },
+  "mila": {
+    "word": "mila",
+    "definition": "Desturi au namna ya maisha ambayo jamii imezoea na kurithisha.",
+    "variations": [
+      "mila",
+      "kimila"
+    ],
+    "emoji": "🪘🏡",
+    "id": "gl106"
+  },
+  "misaada": {
+    "word": "misaada",
+    "definition": "vitu au huduma vinavyotolewa kuwasaidia wenye shida",
+    "variations": [
+      "msaada",
+      "misaada"
+    ],
+    "emoji": "🤲📦",
+    "id": "gl107"
+  },
+  "miundombinu": {
+    "word": "miundombinu",
+    "definition": "mambo ya msingi kama barabara, madaraja, umeme, na maji yanayosaidia maendeleo",
+    "variations": [
+      "miundombinu"
+    ],
+    "emoji": "🛣️🏗️",
+    "id": "gl108"
+  },
+  "mjadala": {
+    "word": "mjadala",
+    "definition": "mazungumzo ya kujadili jambo kwa kutoa mawazo au hoja mbalimbali.",
+    "variations": [
+      "mjadala",
+      "mijadala"
+    ],
+    "emoji": "💬🧠",
+    "id": "gl109"
+  },
+  "mjasiriamali": {
+    "word": "mjasiriamali",
+    "definition": "mtu anayebuni au kufanya biashara au shughuli ya kujipatia kipato",
+    "variations": [
+      "mjasiriamali",
+      "wajasiriamali",
+      "ujasiriamali"
+    ],
+    "emoji": "💼📈",
+    "id": "gl110"
+  },
+  "mkato": {
+    "word": "mkato",
+    "definition": "alama inayotenga sehemu ndogo za sentensi.",
+    "variations": [
+      "mkato (,)"
+    ],
+    "emoji": ",📝",
+    "id": "gl111"
+  },
+  "mkazo": {
+    "word": "mkazo",
+    "definition": "nguvu inayowekwa katika kutamka sauti au neno ili kulisisitiza au kubainisha maana.",
+    "variations": [
+      "mikazo"
+    ],
+    "emoji": "🗣️💪",
+    "id": "gl112"
+  },
+  "mkopo": {
+    "word": "mkopo",
+    "definition": "fedha au kitu anachopewa mtu kwa makubaliano ya kurudisha baadaye.",
+    "variations": [
+      "mkopo",
+      "mikopo"
+    ],
+    "emoji": "💵🤝",
+    "id": "gl113"
+  },
+  "mkutano": {
+    "word": "mkutano",
+    "definition": "kukutana kwa watu wengi ili kujadili au kuamua jambo.",
+    "variations": [
+      "mikutano",
+      "mkutano wa shule"
+    ],
+    "emoji": "👥📣",
+    "id": "gl114"
+  },
+  "mlipuko": {
+    "word": "mlipuko",
+    "definition": "kuenea kwa haraka kwa ugonjwa au tukio baya katika eneo fulani.",
+    "variations": [
+      "mlipuko",
+      "mlipuko wa magonjwa"
+    ],
+    "emoji": "⚠️🦠",
+    "id": "gl115"
+  },
+  "mpangilio": {
+    "word": "mpangilio",
+    "definition": "utaratibu wa kuweka vitu au maneno kwa nafasi sahihi.",
+    "variations": [
+      "kupanga",
+      "pangwa",
+      "mpangilio"
+    ],
+    "emoji": "📐🧩",
+    "id": "gl116"
+  },
+  "mradi": {
+    "word": "mradi",
+    "definition": "kazi au shughuli maalumu inayopangwa na kufanywa ili kufikia lengo fulani",
+    "variations": [
+      "mradi",
+      "miradi"
+    ],
+    "emoji": "📋🏗️",
+    "id": "gl117"
+  },
+  "msamiati": {
+    "word": "msamiati",
+    "definition": "jumla ya maneno yanayotumika katika lugha fulani.",
+    "variations": [
+      "msamiati"
+    ],
+    "emoji": "📚🗂️",
+    "id": "gl118"
+  },
+  "msikilizaji": {
+    "word": "msikilizaji",
+    "definition": "mtu anayesikiliza yanayosemwa na mwingine.",
+    "variations": [
+      "msikilizaji",
+      "wasikilizaji"
+    ],
+    "emoji": "👂🙂",
+    "id": "gl119"
+  },
+  "mtaalamu": {
+    "word": "mtaalamu",
+    "definition": "mtu mwenye ujuzi au maarifa mengi katika kazi au somo fulani",
+    "variations": [
+      "mtaalamu",
+      "wataalamu"
+    ],
+    "emoji": "🎓🧠",
+    "id": "gl120"
+  },
+  "mtaji": {
+    "word": "mtaji",
+    "definition": "fedha au mali inayotumiwa kuanzisha au kuendesha biashara.",
+    "variations": [
+      "mtaji"
+    ],
+    "emoji": "💰🏪",
+    "id": "gl121"
+  },
+  "mtiririko": {
+    "word": "mtiririko",
+    "definition": "mpangilio mzuri wa mawazo kutoka jambo moja hadi jingine.",
+    "variations": [
+      "mtiririko wa mawazo",
+      "mfuatano"
+    ],
+    "emoji": "➡️🧠",
+    "id": "gl122"
+  },
+  "mtumbwi": {
+    "word": "mtumbwi",
+    "definition": "chombo kidogo cha kusafiria au kufanyia kazi majini",
+    "variations": [
+      "mtumbwi",
+      "mitumbwi"
+    ],
+    "emoji": "🛶🌊",
+    "id": "gl123"
+  },
+  "muhtasari": {
+    "word": "muhtasari",
+    "definition": "maelezo mafupi yanayobeba mambo muhimu ya habari ndefu.",
+    "variations": [
+      "kufupisha",
+      "muhtasari wa hotuba"
+    ],
+    "emoji": "📄✂️",
+    "id": "gl124"
+  },
+  "muktadha": {
+    "word": "muktadha",
+    "definition": "mazingira au hali inayosaidia kuelewa maana ya neno au ujumbe.",
+    "variations": [
+      "muktadha"
+    ],
+    "emoji": "🌐💡",
+    "id": "gl125"
+  },
+  "mushikeli": {
+    "word": "mushikeli",
+    "definition": "tatizo au kikwazo kinachofanya jambo lisikwende vizuri",
+    "variations": [
+      "mushikeli"
+    ],
+    "emoji": "🧱😕",
+    "id": "gl126"
+  },
+  "muundo": {
+    "word": "muundo",
+    "definition": "mpangilio wa sehemu za jambo fulani.",
+    "variations": [
+      "miundo",
+      "muundo wa barua"
+    ],
+    "emoji": "🧱📐",
+    "id": "gl127"
+  },
+  "mwafaka": {
+    "word": "mwafaka",
+    "definition": "unaofaa au unaolingana vizuri na jambo linalozungumziwa.",
+    "variations": [
+      "mwafaka"
+    ],
+    "emoji": "✅",
+    "id": "gl128"
+  },
+  "mwandishi": {
+    "word": "mwandishi",
+    "definition": "mtu anayeandika jambo fulani.",
+    "variations": [
+      "waandishi",
+      "kuandika"
+    ],
+    "emoji": "✍️👤",
+    "id": "gl129"
+  },
+  "mwani": {
+    "word": "mwani",
+    "definition": "mimea ya majini inayoota baharini au majini na hutumika kwa shughuli mbalimbali",
+    "variations": [
+      "mwani"
+    ],
+    "emoji": "🌿🌊",
+    "id": "gl130"
+  },
+  "mwinuko": {
+    "word": "mwinuko",
+    "definition": "sehemu ya juu ya ardhi kuliko maeneo ya chini",
+    "variations": [
+      "mwinuko",
+      "miinuko"
+    ],
+    "emoji": "⛰️⬆️",
+    "id": "gl131"
+  },
+  "mzungumzaji": {
+    "word": "mzungumzaji",
+    "definition": "mtu anayesema au anayetoa mawazo katika mazungumzo.",
+    "variations": [
+      "mzungumzaji",
+      "wazungumzaji"
+    ],
+    "emoji": "🗣️",
+    "id": "gl132"
+  },
+  "nahau": {
+    "word": "nahau",
+    "definition": "fungu la maneno lenye maana maalumu isiyopatikana kwa kuangalia maneno yake moja moja",
+    "variations": [
+      "nahau",
+      "nahau za"
+    ],
+    "emoji": "🧩💭",
+    "id": "gl133"
+  },
+  "nahodha": {
+    "word": "nahodha",
+    "definition": "kiongozi au msimamizi mkuu wa chombo cha majini kama meli au mashua",
+    "variations": [
+      "nahodha",
+      "manahodha"
+    ],
+    "emoji": "🚢🧭",
+    "id": "gl134"
+  },
+  "ngonjera": {
+    "word": "ngonjera",
+    "definition": "aina ya utungo wa mazungumzo ya kishairi unaotambwa kwa kubadilishana maneno",
+    "variations": [
+      "ngonjera"
+    ],
+    "emoji": "🎭🗣️",
+    "id": "gl135"
+  },
+  "nomino": {
+    "word": "nomino",
+    "definition": "neno linalotaja jina la mtu, kitu, mahali au hali.",
+    "variations": [
+      "nomino",
+      "nomino za pekee",
+      "nomino za kawaida",
+      "nomino dhahania",
+      "nomino za jumla"
+    ],
+    "emoji": "🏷️👤📦",
+    "id": "gl136"
+  },
+  "nukta": {
+    "word": "nukta",
+    "definition": "alama ya kuonesha mwisho wa sentensi.",
+    "variations": [
+      "nukta (.)"
+    ],
+    "emoji": ".🛑",
+    "id": "gl137"
+  },
+  "nukta mkato": {
+    "word": "nukta mkato",
+    "definition": "alama inayotenganisha mawazo yanayokaribiana kuliko nukta lakini si kama mkato.",
+    "variations": [
+      "nukta mkato (;)"
+    ],
+    "emoji": ";📝",
+    "id": "gl138"
+  },
+  "nukta pacha": {
+    "word": "nukta pacha",
+    "definition": "alama inayotanguliza maelezo au orodha.",
+    "variations": [
+      "nukta pacha (:)"
+    ],
+    "emoji": ":📋",
+    "id": "gl139"
+  },
+  "papara": {
+    "word": "papara",
+    "definition": "tabia ya kufanya jambo kwa haraka bila kufikiri vizuri.",
+    "variations": [
+      "papara"
+    ],
+    "emoji": "⚡😟",
+    "id": "gl140"
+  },
+  "rasmi": {
+    "word": "rasmi",
+    "definition": "ya kufuata utaratibu unaokubalika au unaotambuliwa kiofisi.",
+    "variations": [
+      "rasmi",
+      "kirasmi"
+    ],
+    "emoji": "📘✅",
+    "id": "gl141"
+  },
+  "ratiba": {
+    "word": "ratiba",
+    "definition": "mpangilio wa kazi au shughuli kwa nyakati maalumu.",
+    "variations": [
+      "ratiba ya shule",
+      "ratiba za shughuli"
+    ],
+    "emoji": "🕒📅",
+    "id": "gl142"
+  },
+  "rejea": {
+    "word": "rejea",
+    "definition": "kitu kinachotumiwa kupata taarifa au msaada wa maarifa.",
+    "variations": [
+      "rejea",
+      "marejeo"
+    ],
+    "emoji": "📘🔎",
+    "id": "gl143"
+  },
+  "rika": {
+    "word": "rika",
+    "definition": "Kundi la watu wenye umri unaokaribiana.",
+    "variations": [
+      "rika",
+      "marika"
+    ],
+    "emoji": "🧒🧑",
+    "id": "gl144"
+  },
+  "ripoti": {
+    "word": "ripoti",
+    "definition": "taarifa iliyoandikwa kuhusu jambo fulani baada ya kulichunguza au kulisoma.",
+    "variations": [
+      "ripoti fupi",
+      "taarifa ya ripoti"
+    ],
+    "emoji": "📑🕵️",
+    "id": "gl145"
+  },
+  "ritifaa": {
+    "word": "ritifaa",
+    "definition": "alama inayoweza kutumika katika maandishi kuonesha sehemu yenye mkazo.",
+    "variations": [
+      "ritifaa"
+    ],
+    "emoji": "✍️🔺",
+    "id": "gl146"
+  },
+  "rushwa": {
+    "word": "rushwa",
+    "definition": "kitu kama pesa au zawadi kinachotolewa au kupokelewa ili kupata upendeleo usio wa haki",
+    "variations": [
+      "rushwa"
+    ],
+    "emoji": "💸⚖️🚫",
+    "id": "gl147"
+  },
+  "salamu": {
+    "word": "salamu",
+    "definition": "Maneno yanayotumiwa watu wanapokutana au kuwasiliana kwa heshima.",
+    "variations": [
+      "salamu",
+      "kusalimiana"
+    ],
+    "emoji": "👋😊",
+    "id": "gl148"
+  },
+  "sarufi": {
+    "word": "sarufi",
+    "definition": "kanuni na taratibu zinazotawala matumizi sahihi ya lugha.",
+    "variations": [
+      "sarufi",
+      "sarufi ya Kiswahili"
+    ],
+    "emoji": "📘✍️",
+    "id": "gl149"
+  },
+  "sauti": {
+    "word": "sauti",
+    "definition": "Mlango wa kusikika unaotoka kwa mtu au kitu na hutumika katika kusema maneno.",
+    "variations": [
+      "sauti",
+      "sauti za lugha"
+    ],
+    "emoji": "🔊🗣️",
+    "id": "gl150"
+  },
+  "sentensi": {
+    "word": "sentensi",
+    "definition": "kundi la maneno linalokamilisha wazo na kutoa maana kamili.",
+    "variations": [
+      "sentensi"
+    ],
+    "emoji": "✍️📝",
+    "id": "gl151"
+  },
+  "sera": {
+    "word": "sera",
+    "definition": "mwongozo au mpango rasmi wa jinsi jambo linavyopaswa kufanywa",
+    "variations": [
+      "sera",
+      "sera za"
+    ],
+    "emoji": "📜🏛️",
+    "id": "gl152"
+  },
+  "shairi": {
+    "word": "shairi",
+    "definition": "Utungo wa kisanaa wenye mistari na mara nyingi una mpangilio wa maneno ya kuvutia.",
+    "variations": [
+      "shairi",
+      "mashairi"
+    ],
+    "emoji": "📜🎤",
+    "id": "gl153"
+  },
+  "shauku": {
+    "word": "shauku",
+    "definition": "hamu kubwa ya kufanya au kujua jambo.",
+    "variations": [
+      "shauku"
+    ],
+    "emoji": "😊🔥",
+    "id": "gl154"
+  },
+  "shehena": {
+    "word": "shehena",
+    "definition": "mzigo mkubwa uliobebwa katika gari, meli au chombo kingine.",
+    "variations": [
+      "shehena"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl155"
+  },
+  "silabi": {
+    "word": "silabi",
+    "definition": "sehemu ya neno inayotamkwa kwa mpigo mmoja wa sauti.",
+    "variations": [
+      "silabi",
+      "silabi yenye mkazo"
+    ],
+    "emoji": "🔤🎙️",
+    "id": "gl156"
+  },
+  "stadi": {
+    "word": "stadi",
+    "definition": "uwezo au ujuzi wa kufanya jambo vizuri.",
+    "variations": [
+      "stadi",
+      "ustadi"
+    ],
+    "emoji": "🛠️📘",
+    "id": "gl157"
+  },
+  "taaluma": {
+    "word": "taaluma",
+    "definition": "maarifa na ujuzi wa somo au kazi fulani unaopatikana kwa kujifunza",
+    "variations": [
+      "taaluma",
+      "taaluma za"
+    ],
+    "emoji": "📘🎓",
+    "id": "gl158"
+  },
+  "taarifa": {
+    "word": "taarifa",
+    "definition": "habari au maelezo yanayotolewa kuhusu jambo fulani.",
+    "variations": [
+      "habari",
+      "taarifa mbalimbali"
+    ],
+    "emoji": "📢📄",
+    "id": "gl159"
+  },
+  "tafsida": {
+    "word": "tafsida",
+    "definition": "njia ya kusema jambo kwa upole ili kuficha au kupunguza ukali wa neno.",
+    "variations": [
+      "tafsida",
+      "tafsida mbalimbali"
+    ],
+    "emoji": "🗣️🤫",
+    "id": "gl160"
+  },
+  "tafsiri": {
+    "word": "tafsiri",
+    "definition": "Kubadili ujumbe kutoka lugha moja kwenda lugha nyingine bila kupoteza maana.",
+    "variations": [
+      "tafsiri",
+      "kutafsiri"
+    ],
+    "emoji": "📘🔁",
+    "id": "gl161"
+  },
+  "tahajia": {
+    "word": "tahajia",
+    "definition": "uandishi sahihi wa neno kwa herufi zake.",
+    "variations": [
+      "tahajia sahihi",
+      "hija"
+    ],
+    "emoji": "🔤✅",
+    "id": "gl162"
+  },
+  "taifa": {
+    "word": "taifa",
+    "definition": "Nchi au watu wa nchi moja wanaounganishwa na utambulisho wa pamoja.",
+    "variations": [
+      "taifa",
+      "kitaifa"
+    ],
+    "emoji": "🏳️🌍",
+    "id": "gl163"
+  },
+  "TEHAMA": {
+    "word": "TEHAMA",
+    "definition": "matumizi ya teknolojia kama kompyuta, simu na intaneti katika kupata na kusambaza taarifa.",
+    "variations": [
+      "TEHAMA"
+    ],
+    "emoji": "💻📱🌐",
+    "id": "gl164"
+  },
+  "teknolojia": {
+    "word": "teknolojia",
+    "definition": "Matumizi ya sayansi na vifaa kurahisisha kazi na maisha.",
+    "variations": [
+      "teknolojia",
+      "kiteknolojia"
+    ],
+    "emoji": "💻⚙️",
+    "id": "gl165"
+  },
+  "tija": {
+    "word": "tija",
+    "definition": "faida au matokeo mazuri yanayotokana na kazi au shughuli.",
+    "variations": [
+      "tija"
+    ],
+    "emoji": "📈✅",
+    "id": "gl166"
+  },
+  "tungo": {
+    "word": "tungo",
+    "definition": "mpangilio wa maneno unaotumika kuleta maana katika usemi au maandishi.",
+    "variations": [
+      "tungo"
+    ],
+    "emoji": "📝🧠",
+    "id": "gl167"
+  },
+  "ualimu": {
+    "word": "ualimu",
+    "definition": "kazi ya kufundisha na kuelekeza wanafunzi",
+    "variations": [
+      "ualimu",
+      "mwalimu",
+      "walimu"
+    ],
+    "emoji": "👩‍🏫📚",
+    "id": "gl168"
+  },
+  "uaminifu": {
+    "word": "uaminifu",
+    "definition": "hali ya kuwa mkweli na wa kuaminika.",
+    "variations": [
+      "uaminifu",
+      "mwaminifu",
+      "waaminifu"
+    ],
+    "emoji": "🤝✅",
+    "id": "gl169"
+  },
+  "ubunifu": {
+    "word": "ubunifu",
+    "definition": "Uwezo wa kuleta mawazo mapya au kufanya jambo kwa njia mpya.",
+    "variations": [
+      "ubunifu",
+      "bunifu"
+    ],
+    "emoji": "💡🎨",
+    "id": "gl170"
+  },
+  "uchangamfu": {
+    "word": "uchangamfu",
+    "definition": "hali ya kuwa mchangamfu, mwenye furaha na nguvu",
+    "variations": [
+      "uchangamfu"
+    ],
+    "emoji": "😊⚡",
+    "id": "gl171"
+  },
+  "uchumi": {
+    "word": "uchumi",
+    "definition": "hali ya fedha na mali ya mtu, familia au nchi.",
+    "variations": [
+      "uchumi"
+    ],
+    "emoji": "💰📈",
+    "id": "gl172"
+  },
+  "udadisi": {
+    "word": "udadisi",
+    "definition": "Tabia ya kutaka kujua zaidi kwa kuuliza au kuchunguza mambo.",
+    "variations": [
+      "udadisi"
+    ],
+    "emoji": "🔎🤔",
+    "id": "gl173"
+  },
+  "uelewa wa kina": {
+    "word": "uelewa wa kina",
+    "definition": "kuelewa jambo kwa undani, si juu juu tu.",
+    "variations": [
+      "uelewa wa kina"
+    ],
+    "emoji": "🔍🧠",
+    "id": "gl174"
+  },
+  "ufafanuzi": {
+    "word": "ufafanuzi",
+    "definition": "maelezo yanayosaidia jambo lieleweke vizuri zaidi.",
+    "variations": [
+      "fafanua",
+      "kufafanua",
+      "ufafanuzi"
+    ],
+    "emoji": "💡📖",
+    "id": "gl175"
+  },
+  "ufahamu": {
+    "word": "ufahamu",
+    "definition": "uwezo wa kuelewa jambo unalosoma, unasikia au unaona",
+    "variations": [
+      "ufahamu"
+    ],
+    "emoji": "🧠📖",
+    "id": "gl176"
+  },
+  "ufanisi": {
+    "word": "ufanisi",
+    "definition": "hali ya kufanya jambo vizuri na kwa matokeo mazuri.",
+    "variations": [
+      "kwa ufanisi",
+      "fanisi"
+    ],
+    "emoji": "✅🎯",
+    "id": "gl177"
+  },
+  "ufasaha": {
+    "word": "ufasaha",
+    "definition": "uwezo wa kuzungumza au kuandika vizuri na kwa kueleweka.",
+    "variations": [
+      "ufasaha"
+    ],
+    "emoji": "🗣️✨",
+    "id": "gl178"
+  },
+  "ufupisho": {
+    "word": "ufupisho",
+    "definition": "maelezo mafupi ya jambo bila kupoteza maana yake ya msingi.",
+    "variations": [
+      "ufupisho",
+      "kufupisha"
+    ],
+    "emoji": "✂️📝",
+    "id": "gl179"
+  },
+  "uhaini": {
+    "word": "uhaini",
+    "definition": "kitendo cha kwenda kinyume na uaminifu kwa nchi au jamii yako",
+    "variations": [
+      "uhaini"
+    ],
+    "emoji": "⚠️🚫",
+    "id": "gl180"
+  },
+  "uhariri": {
+    "word": "uhariri",
+    "definition": "Kazi ya kusahihisha na kuboresha maandishi kabla hayajachapishwa au kutumiwa.",
+    "variations": [
+      "uhariri",
+      "mhariri"
+    ],
+    "emoji": "✏️📄",
+    "id": "gl181"
+  },
+  "uhuru": {
+    "word": "uhuru",
+    "definition": "Hali ya kuwa huru bila kutawaliwa au kuzuiliwa.",
+    "variations": [
+      "uhuru",
+      "harakati za uhuru"
+    ],
+    "emoji": "🕊️🇹🇿",
+    "id": "gl182"
+  },
+  "uhusiano": {
+    "word": "uhusiano",
+    "definition": "namna vitu au maneno vinavyoungana au kutegemeana.",
+    "variations": [
+      "mahusiano",
+      "kuhusiana",
+      "uhusiano"
+    ],
+    "emoji": "🤝🔗",
+    "id": "gl183"
+  },
+  "ujasiriamali": {
+    "word": "ujasiriamali",
+    "definition": "uwezo wa kubuni na kufanya biashara au kazi kwa kutumia fursa zilizopo",
+    "variations": [
+      "ujasiriamali",
+      "mjasiriamali",
+      "wajasiriamali"
+    ],
+    "emoji": "💡💼📈",
+    "id": "gl184"
+  },
+  "ujumbe": {
+    "word": "ujumbe",
+    "definition": "taarifa au maana anayokusudia kuitoa mtu.",
+    "variations": [
+      "ujumbe uliokusudiwa",
+      "jumbe"
+    ],
+    "emoji": "💌📢",
+    "id": "gl185"
+  },
+  "ujuzi": {
+    "word": "ujuzi",
+    "definition": "uwezo au maarifa ya kufanya jambo kwa ufanisi baada ya kujifunza au kufanya mazoezi",
+    "variations": [
+      "ujuzi",
+      "maarifa",
+      "stadi"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl186"
+  },
+  "ukalafati": {
+    "word": "ukalafati",
+    "definition": "kazi ya kuziba au kutengeneza sehemu zilizoharibika hasa kwenye chombo kama mtumbwi",
+    "variations": [
+      "ukalafati",
+      "kalafati"
+    ],
+    "emoji": "🛶🔧",
+    "id": "gl187"
+  },
+  "ukalimani": {
+    "word": "ukalimani",
+    "definition": "Kazi ya kutafsiri maneno ya msemaji kutoka lugha moja kwenda lugha nyingine kwa mdomo.",
+    "variations": [
+      "ukalimani",
+      "mkalimani"
+    ],
+    "emoji": "🎧🗣️",
+    "id": "gl188"
+  },
+  "ukame": {
+    "word": "ukame",
+    "definition": "Hali ya kukosekana kwa mvua kwa muda mrefu.",
+    "variations": [
+      "ukame"
+    ],
+    "emoji": "☀️🌵",
+    "id": "gl189"
+  },
+  "ukarimu": {
+    "word": "ukarimu",
+    "definition": "Tabia ya kuwasaidia wengine na kuwakaribisha kwa moyo mwema.",
+    "variations": [
+      "ukarimu",
+      "mkarimu"
+    ],
+    "emoji": "🤲💖",
+    "id": "gl190"
+  },
+  "umaahiri": {
+    "word": "umaahiri",
+    "definition": "Uwezo wa kufanya jambo kwa ujuzi na ustadi.",
+    "variations": [
+      "umahiri"
+    ],
+    "emoji": "🏆🧠",
+    "id": "gl191"
+  },
+  "umahiri": {
+    "word": "umahiri",
+    "definition": "uwezo mkubwa wa kufanya jambo kwa ustadi.",
+    "variations": [
+      "stadi",
+      "ustadi",
+      "mahirI"
+    ],
+    "emoji": "🏆💡",
+    "id": "gl192"
+  },
+  "unyonge": {
+    "word": "unyonge",
+    "definition": "hali ya kuwa dhaifu au kukosa nguvu",
+    "variations": [
+      "unyonge"
+    ],
+    "emoji": "😞🫥",
+    "id": "gl193"
+  },
+  "ushikamani": {
+    "word": "ushikamani",
+    "definition": "hali ya sentensi au mawazo kuungana vizuri na kueleweka kwa mtiririko.",
+    "variations": [
+      "ushikamani"
+    ],
+    "emoji": "🧵🧩",
+    "id": "gl194"
+  },
+  "usikivu": {
+    "word": "usikivu",
+    "definition": "uwezo au hali ya kusikiliza kwa makini.",
+    "variations": [
+      "usikivu",
+      "kusikiliza"
+    ],
+    "emoji": "👂🧠",
+    "id": "gl195"
+  },
+  "utalii": {
+    "word": "utalii",
+    "definition": "shughuli ya kutembelea maeneo mbalimbali kwa mapumziko, kujifunza au kuona vivutio",
+    "variations": [
+      "utalii"
+    ],
+    "emoji": "🏝️🧳",
+    "id": "gl196"
+  },
+  "utamaduni": {
+    "word": "utamaduni",
+    "definition": "mwenendo wa maisha ya jamii unaohusisha mila, desturi, jadi na namna ya kuishi.",
+    "variations": [
+      "utamaduni",
+      "tamaduni"
+    ],
+    "emoji": "🎭🌍",
+    "id": "gl197"
+  },
+  "utambulisho": {
+    "word": "utambulisho",
+    "definition": "Hali ya kumjua au kumtofautisha mtu au jamii kwa sifa zake maalumu.",
+    "variations": [
+      "utambulisho",
+      "kutambulisha",
+      "hutambulika"
+    ],
+    "emoji": "🪪👥",
+    "id": "gl198"
+  },
+  "utamkaji": {
+    "word": "utamkaji",
+    "definition": "namna ya kutamka maneno au sauti kwa usahihi.",
+    "variations": [
+      "utamkaji",
+      "kutamka",
+      "matamshi"
+    ],
+    "emoji": "👄🔊",
+    "id": "gl199"
+  },
+  "utandawazi": {
+    "word": "utandawazi",
+    "definition": "hali ya dunia kuunganishwa zaidi katika mawasiliano, biashara, na tamaduni",
+    "variations": [
+      "utandawazi"
+    ],
+    "emoji": "🌍🤝",
+    "id": "gl200"
+  },
+  "uvuvi": {
+    "word": "uvuvi",
+    "definition": "kazi ya kuvua samaki au viumbe wengine wa majini",
+    "variations": [
+      "uvuvi",
+      "mvuvi",
+      "wavuvi"
+    ],
+    "emoji": "🎣🐟",
+    "id": "gl201"
+  },
+  "uzalendo": {
+    "word": "uzalendo",
+    "definition": "hali ya kuipenda na kuijali nchi yako",
+    "variations": [
+      "uzalendo"
+    ],
+    "emoji": "🇹🇿❤️",
+    "id": "gl202"
+  },
+  "viambaupishi": {
+    "word": "viambaupishi",
+    "definition": "vitu vinavyotumiwa kuandaa chakula, kama vile unga, sukari au mayai.",
+    "variations": [
+      "kiambaupishi",
+      "viambaupishi"
+    ],
+    "emoji": "🥚🍰",
+    "id": "gl203"
+  },
+  "viunganishi": {
+    "word": "viunganishi",
+    "definition": "maneno yanayounganisha sehemu za sentensi au mawazo.",
+    "variations": [
+      "kiunganishi",
+      "maneno ya kuunganisha"
+    ],
+    "emoji": "🔗📝",
+    "id": "gl204"
+  },
+  "viunganishi vya ushikamani": {
+    "word": "viunganishi vya ushikamani",
+    "definition": "maneno yanayosaidia sentensi na aya kuendelea kwa mtiririko mzuri wa mawazo.",
+    "variations": [
+      "kiunganishi cha ushikamani",
+      "viunganishi vya ushikamani"
+    ],
+    "emoji": "🔗➡️",
+    "id": "gl205"
+  },
+  "wajasiriamali": {
+    "word": "wajasiriamali",
+    "definition": "watu wanaoanzisha au kufanya biashara au shughuli za kujipatia kipato kwa ubunifu.",
+    "variations": [
+      "mjasiriamali",
+      "wajasiriamali"
+    ],
+    "emoji": "💼💡📈",
+    "id": "gl206"
+  },
+  "wanajamii": {
+    "word": "wanajamii",
+    "definition": "Watu wanaoishi au wanaohusika katika jamii moja.",
+    "variations": [
+      "mwanajamii",
+      "wanajamii",
+      "jamii"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🏘️",
+    "id": "gl207"
+  },
+  "wosia": {
+    "word": "wosia",
+    "definition": "maagizo au ushauri wa muhimu anaotoa mtu kwa mwingine.",
+    "variations": [
+      "wosia"
+    ],
+    "emoji": "🗣️❤️",
+    "id": "gl208"
+  }
+}
